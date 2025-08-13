@@ -1,9 +1,15 @@
 # DATA
 
+<br>
+
+---
+
 This folder contains two key files:
 
 * File `data_master_250813.csv` is the main dataset containing all the raw data used in this project.
 * File `var_list_data_master_250813.xlsx` contains a list of all the variable names and indicates their characteristics.
+
+<br>
 
 The data master includes the following types of variables:
 
@@ -19,5 +25,11 @@ The data master includes the following types of variables:
    * Verb count
    * Noun count
    * Lemma count
+
+---
+
+**If you add more variables, please document your changes in this section.**
+
+
 
 

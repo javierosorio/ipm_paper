@@ -1,0 +1,96 @@
+Annotation Round 5
+Precision weighted: 0.8679
+Recall weighted: 0.8678
+F1: 0.8678
+Annotation Round 5
+Precision weighted: 0.8714
+Recall weighted: 0.8693
+F1: 0.8694
+Annotation Round 5
+Precision weighted: 0.8242
+Recall weighted: 0.8241
+F1: 0.8239
+Annotation Round 10
+Precision weighted: 0.8569
+Recall weighted: 0.8377
+F1: 0.8344
+Annotation Round 15
+Precision weighted: 0.8899
+Recall weighted: 0.8876
+F1: 0.8871
+Annotation Round 20
+Precision weighted: 0.8918
+Recall weighted: 0.8909
+F1: 0.8907
+Annotation Round 25
+Precision weighted: 0.8945
+Recall weighted: 0.8918
+F1: 0.8918
+Annotation Round 30
+Precision weighted: 0.9063
+Recall weighted: 0.9005
+F1: 0.9004
+Annotation Round 35
+Precision weighted: 0.8917
+Recall weighted: 0.8900
+F1: 0.8897
+Annotation Round 40
+Precision weighted: 0.9087
+Recall weighted: 0.9079
+F1: 0.9079
+Annotation Round 45
+Precision weighted: 0.9102
+Recall weighted: 0.9100
+F1: 0.9100
+Annotation Round 50
+Precision weighted: 0.9024
+Recall weighted: 0.9024
+F1: 0.9024
+Annotation Round 55
+Precision weighted: 0.9087
+Recall weighted: 0.9063
+F1: 0.9063
+Annotation Round 60
+Precision weighted: 0.9090
+Recall weighted: 0.9089
+F1: 0.9090
+Annotation Round 65
+Precision weighted: 0.9134
+Recall weighted: 0.9134
+F1: 0.9134
+Annotation Round 70
+Precision weighted: 0.9174
+Recall weighted: 0.9160
+F1: 0.9161
+Annotation Round 75
+Precision weighted: 0.9186
+Recall weighted: 0.9183
+F1: 0.9183
+Annotation Round 80
+Precision weighted: 0.9182
+Recall weighted: 0.9181
+F1: 0.9182
+Annotation Round 85
+Precision weighted: 0.9107
+Recall weighted: 0.9102
+F1: 0.9101
+Annotation Round 90
+Precision weighted: 0.9177
+Recall weighted: 0.9171
+F1: 0.9171
+Annotation Round 95
+Precision weighted: 0.9183
+Recall weighted: 0.9153
+F1: 0.9153
+Annotation Round 100
+Precision weighted: 0.9176
+Recall weighted: 0.9174
+F1: 0.9175
+Annotation Round 105
+Precision weighted: 0.9196
+Recall weighted: 0.9192
+F1: 0.9192
+Annotation Round 110
+Precision weighted: 0.9174
+Recall weighted: 0.9158
+F1: 0.9159

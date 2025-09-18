@@ -1,0 +1,4 @@
+Annotation Round 1
+Precision weighted: 0.8760
+Recall weighted: 0.8834
+F1: 0.8790

@@ -1,0 +1,88 @@
+Annotation Round 5
+Precision weighted: 0.8302
+Recall weighted: 0.8071
+F1: 0.8021
+Annotation Round 10
+Precision weighted: 0.8826
+Recall weighted: 0.8826
+F1: 0.8826
+Annotation Round 15
+Precision weighted: 0.8830
+Recall weighted: 0.8830
+F1: 0.8829
+Annotation Round 20
+Precision weighted: 0.8809
+Recall weighted: 0.8808
+F1: 0.8808
+Annotation Round 25
+Precision weighted: 0.8930
+Recall weighted: 0.8929
+F1: 0.8928
+Annotation Round 30
+Precision weighted: 0.8938
+Recall weighted: 0.8936
+F1: 0.8936
+Annotation Round 35
+Precision weighted: 0.8945
+Recall weighted: 0.8944
+F1: 0.8945
+Annotation Round 40
+Precision weighted: 0.8965
+Recall weighted: 0.8952
+F1: 0.8949
+Annotation Round 45
+Precision weighted: 0.9006
+Recall weighted: 0.9001
+F1: 0.9000
+Annotation Round 50
+Precision weighted: 0.9040
+Recall weighted: 0.9040
+F1: 0.9040
+Annotation Round 55
+Precision weighted: 0.9022
+Recall weighted: 0.9021
+F1: 0.9020
+Annotation Round 60
+Precision weighted: 0.9079
+Recall weighted: 0.9066
+F1: 0.9067
+Annotation Round 65
+Precision weighted: 0.9077
+Recall weighted: 0.9075
+F1: 0.9076
+Annotation Round 70
+Precision weighted: 0.9067
+Recall weighted: 0.9058
+F1: 0.9058
+Annotation Round 75
+Precision weighted: 0.9051
+Recall weighted: 0.9047
+F1: 0.9046
+Annotation Round 80
+Precision weighted: 0.9070
+Recall weighted: 0.9070
+F1: 0.9070
+Annotation Round 85
+Precision weighted: 0.9173
+Recall weighted: 0.9160
+F1: 0.9161
+Annotation Round 90
+Precision weighted: 0.9079
+Recall weighted: 0.9079
+F1: 0.9079
+Annotation Round 95
+Precision weighted: 0.9054
+Recall weighted: 0.9052
+F1: 0.9052
+Annotation Round 100
+Precision weighted: 0.9161
+Recall weighted: 0.9158
+F1: 0.9159
+Annotation Round 105
+Precision weighted: 0.9144
+Recall weighted: 0.9144
+F1: 0.9144
+Annotation Round 110
+Precision weighted: 0.9093
+Recall weighted: 0.9093
+F1: 0.9093

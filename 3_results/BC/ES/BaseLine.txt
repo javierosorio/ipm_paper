@@ -1,0 +1,96 @@
+Annotation Round 5
+Precision weighted: 0.8977
+Recall weighted: 0.8975
+F1: 0.8875
+Annotation Round 10
+Precision weighted: 0.9014
+Recall weighted: 0.9013
+F1: 0.8814
+Annotation Round 5
+Precision weighted: 0.8812
+Recall weighted: 0.8810
+F1: 0.8809
+Annotation Round 10
+Precision weighted: 0.8727
+Recall weighted: 0.8669
+F1: 0.8659
+Annotation Round 15
+Precision weighted: 0.8912
+Recall weighted: 0.8904
+F1: 0.8904
+Annotation Round 20
+Precision weighted: 0.8959
+Recall weighted: 0.8959
+F1: 0.8958
+Annotation Round 25
+Precision weighted: 0.8937
+Recall weighted: 0.8930
+F1: 0.8929
+Annotation Round 30
+Precision weighted: 0.8879
+Recall weighted: 0.8849
+F1: 0.8844
+Annotation Round 35
+Precision weighted: 0.8954
+Recall weighted: 0.8953
+F1: 0.8953
+Annotation Round 40
+Precision weighted: 0.8880
+Recall weighted: 0.8870
+F1: 0.8868
+Annotation Round 45
+Precision weighted: 0.8992
+Recall weighted: 0.8987
+F1: 0.8987
+Annotation Round 50
+Precision weighted: 0.8897
+Recall weighted: 0.8897
+F1: 0.8897
+Annotation Round 55
+Precision weighted: 0.8894
+Recall weighted: 0.8881
+F1: 0.8878
+Annotation Round 60
+Precision weighted: 0.8947
+Recall weighted: 0.8946
+F1: 0.8947
+Annotation Round 65
+Precision weighted: 0.8846
+Recall weighted: 0.8821
+F1: 0.8816
+Annotation Round 70
+Precision weighted: 0.9056
+Recall weighted: 0.9051
+F1: 0.9001
+Annotation Round 75
+Precision weighted: 0.8988
+Recall weighted: 0.8978
+F1: 0.8979
+Annotation Round 80
+Precision weighted: 0.9034
+Recall weighted: 0.9012
+F1: 0.9002
+Annotation Round 85
+Precision weighted: 0.9010
+Recall weighted: 0.9003
+F1: 0.9003
+Annotation Round 90
+Precision weighted: 0.8867
+Recall weighted: 0.8854
+F1: 0.8851
+Annotation Round 95
+Precision weighted: 0.9022
+Recall weighted: 0.8944
+F1: 0.8943
+Annotation Round 100
+Precision weighted: 0.9050
+Recall weighted: 0.9045
+F1: 0.9006
+Annotation Round 105
+Precision weighted: 0.8941
+Recall weighted: 0.8941
+F1: 0.8941
+Annotation Round 110
+Precision weighted: 0.8997
+Recall weighted: 0.8996
+F1: 0.8996

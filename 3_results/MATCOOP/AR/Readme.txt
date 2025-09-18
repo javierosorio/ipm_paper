@@ -7,4 +7,4 @@ Largest F1 score in Margin Sampling: 87.36
 Largest F1 score in BALD: 87.07
 Largest F1 score in Monte Carlo: 87.00
 Largest F1 score in Core set: 86.92
-Largest F1 score in Base Line: 85.13
+Largest F1 score in Base Line: 84.99

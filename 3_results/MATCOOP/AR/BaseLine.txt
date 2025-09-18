@@ -77,12 +77,12 @@ F1: 0.8422
 Annotation Round 100
 Precision weighted: 0.8526
 Recall weighted: 0.8503
-F1: 0.8513
+F1: 0.8493
 Annotation Round 105
 Precision weighted: 0.8514
 Recall weighted: 0.8703
-F1: 0.8513
+F1: 0.8493
 Annotation Round 110
 Precision weighted: 0.8432
 Recall weighted: 0.8661
-F1: 0.8500
+F1: 0.8499

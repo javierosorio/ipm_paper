@@ -1,0 +1,150 @@
+Annotation Round 5
+Precision: 0.6938
+Recall: 0.6842
+F1: 0.6776
+-------------------------------------
+Annotation Round 10
+Precision: 0.6928
+Recall: 0.6948
+F1: 0.6877
+-------------------------------------
+Annotation Round 15
+Precision: 0.7186
+Recall: 0.7147
+F1: 0.7140
+-------------------------------------
+Annotation Round 20
+Precision: 0.7266
+Recall: 0.7276
+F1: 0.7260
+-------------------------------------
+Annotation Round 25
+Precision: 0.7323
+Recall: 0.7291
+F1: 0.7296
+-------------------------------------
+Annotation Round 30
+Precision: 0.7342
+Recall: 0.7325
+F1: 0.7322
+-------------------------------------
+Annotation Round 35
+Precision: 0.7348
+Recall: 0.7298
+F1: 0.7316
+-------------------------------------
+Annotation Round 40
+Precision: 0.7524
+Recall: 0.7447
+F1: 0.7480
+-------------------------------------
+Annotation Round 45
+Precision: 0.7310
+Recall: 0.7308
+F1: 0.7270
+-------------------------------------
+Annotation Round 50
+Precision: 0.7447
+Recall: 0.7364
+F1: 0.7373
+-------------------------------------
+Annotation Round 55
+Precision: 0.7488
+Recall: 0.7344
+F1: 0.7385
+-------------------------------------
+Annotation Round 60
+Precision: 0.7510
+Recall: 0.7332
+F1: 0.7386
+-------------------------------------
+Annotation Round 65
+Precision: 0.7466
+Recall: 0.7402
+F1: 0.7428
+-------------------------------------
+Annotation Round 70
+Precision: 0.7410
+Recall: 0.7386
+F1: 0.7386
+-------------------------------------
+Annotation Round 75
+Precision: 0.7476
+Recall: 0.7170
+F1: 0.7275
+-------------------------------------
+Annotation Round 80
+Precision: 0.7509
+Recall: 0.7398
+F1: 0.7440
+-------------------------------------
+Annotation Round 85
+Precision: 0.7519
+Recall: 0.7393
+F1: 0.7437
+-------------------------------------
+Annotation Round 90
+Precision: 0.7519
+Recall: 0.7323
+F1: 0.7403
+-------------------------------------
+Annotation Round 95
+Precision: 0.7463
+Recall: 0.7296
+F1: 0.7361
+-------------------------------------
+Annotation Round 100
+Precision: 0.7400
+Recall: 0.7339
+F1: 0.7347
+-------------------------------------
+Annotation Round 105
+Precision: 0.7495
+Recall: 0.7378
+F1: 0.7425
+-------------------------------------
+Annotation Round 110
+Precision: 0.7539
+Recall: 0.7378
+F1: 0.7436
+-------------------------------------
+Annotation Round 115
+Precision: 0.7467
+Recall: 0.7391
+F1: 0.7421
+-------------------------------------
+Annotation Round 120
+Precision: 0.7451
+Recall: 0.7357
+F1: 0.7397
+-------------------------------------
+Annotation Round 125
+Precision: 0.7398
+Recall: 0.7413
+F1: 0.7402
+-------------------------------------
+Annotation Round 130
+Precision: 0.7507
+Recall: 0.7332
+F1: 0.7398
+-------------------------------------
+Annotation Round 135
+Precision: 0.7383
+Recall: 0.7398
+F1: 0.7378
+-------------------------------------
+Annotation Round 140
+Precision: 0.7364
+Recall: 0.7335
+F1: 0.7340
+-------------------------------------
+Annotation Round 145
+Precision: 0.7403
+Recall: 0.7273
+F1: 0.7305
+-------------------------------------
+Annotation Round 150
+Precision: 0.7442
+Recall: 0.7203
+F1: 0.7281
+-------------------------------------

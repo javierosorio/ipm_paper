@@ -1,0 +1,10 @@
+Largest F1 score in FullDate.txt: 0.9291
+Largest F1 score in Max_Entropy.txt: 0.9236
+Largest F1 score in Monte_Carlo.txt: 0.9235
+Largest F1 score in Stacking.txt: 0.9228
+Largest F1 score in Margin_Sampling.txt: 0.922
+Largest F1 score in BALD.txt: 0.9208
+Largest F1 score in Stacking_Union.txt: 0.9208
+Largest F1 score in Top_Confidence.txt: 0.9203
+Largest F1 score in core_set.txt: 0.9198
+Largest F1 score in BaseLine.txt: 0.8999

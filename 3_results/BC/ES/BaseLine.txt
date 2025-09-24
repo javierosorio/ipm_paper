@@ -1,12 +1,4 @@
 Annotation Round 5
-Precision weighted: 0.8977
-Recall weighted: 0.8975
-F1: 0.8875
-Annotation Round 10
-Precision weighted: 0.9014
-Recall weighted: 0.9013
-F1: 0.8814
-Annotation Round 5
 Precision weighted: 0.8812
 Recall weighted: 0.8810
 F1: 0.8809

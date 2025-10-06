@@ -1,0 +1,18 @@
+Scripts here are used for Binary classification, VERCONF, VERCOOP, MATCONF, MATCOOP.
+Examples for BC commands:
+1- python3 BC_Strategies/AL_top_confedence.py --output BC_Logs/AR_EN/Top_Confidence --folder Datasets/BC_AR_EN_DEEPL --pretrain Downstream_Models/English/ConfliBERT-cont-cased
+2- python3 BC_Strategies/AL_Core_set.py --output BC_Logs/AR_EN/core_set --folder Datasets/BC_AR_EN_DEEPL --pretrain Downstream_Models/English/ConfliBERT-cont-cased
+3- python3 BC_Strategies/AL_monte_carlo.py --output BC_Logs/AR_EN/Monte_Carlo --folder Datasets/BC_AR_EN_DEEPL --pretrain Downstream_Models/English/ConfliBERT-cont-cased
+4- python3 BC_Strategies/AL_max_entropy.py --output BC_Logs/AR_EN/Max_Entropy --folder Datasets/BC_AR_EN_DEEPL --pretrain Downstream_Models/English/ConfliBERT-cont-cased
+5- python3 BC_Strategies/AL_Margin_Sample.py --output BC_Logs/AR_EN/Margin_Sampling --folder Datasets/BC_AR_EN_DEEPL --pretrain Downstream_Models/English/ConfliBERT-cont-cased
+6- python3 BC_Strategies/AL_Stacking.py --output BC_Logs/AR_EN/Stacking --folder Datasets/BC_AR_EN_DEEPL --pretrain Downstream_Models/English/ConfliBERT-cont-cased
+7- python3 BC_Strategies/AL_Stacking_Union.py --output BC_Logs/AR_EN/Stacking_Union --folder Datasets/BC_AR_EN_DEEPL --pretrain Downstream_Models/English/ConfliBERT-cont-cased
+8- python3 BC_Strategies/fullData.py --output BC_Logs/AR_EN/FullDate --folder Datasets/BC_AR_EN_DEEPL --pretrain Downstream_Models/English/ConfliBERT-cont-cased
+9- python3 BC_Strategies/baseline.py --output BC_Logs/AR_EN/BaseLine --folder Datasets/BC_AR_EN_DEEPL --pretrain Downstream_Models/English/ConfliBERT-cont-cased
+10- python3 BC_Strategies/AL_Bald_Sampling.py --output BC_Logs/AR_EN/BALD --folder Datasets/BC_AR_EN_DEEPL --pretrain Downstream_Models/English/ConfliBERT-cont-cased
+
+Where:
+BC_Strategies/AL_top_confedence.py: is the type of Active learning 
+--output BC_Logs/AR_EN/Top_Confidence: is the name of the output file
+--folder Datasets/BC_AR_EN_DEEPL: Where the data set is saved
+--pretrain Downstream_Models/English/ConfliBERT-cont-cased: The model used for pre-training
